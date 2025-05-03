@@ -1,0 +1,5 @@
+com\genie\ai\config\WebSocketConfig.class
+com\genie\ai\controller\GeminiWebSocketHandler.class
+com\genie\ai\GenieAiApp.class
+com\genie\ai\controller\ChatRequest.class
+com\genie\ai\entity\Product.class
